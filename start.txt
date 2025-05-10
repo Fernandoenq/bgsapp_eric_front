@@ -1,0 +1,2 @@
+npm run build para cada alteração no codigo
+npm start para iniciar
